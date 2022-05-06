@@ -13,7 +13,7 @@ because i liked how i can put only the things i want.
 
 On the other hand I also like to program on Java, because i just love it.
 
-**Interest on
+**Interested in**
 https://archlinux.org/
 
 <!---

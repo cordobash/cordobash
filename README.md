@@ -14,9 +14,19 @@ because i liked how i can put only the things i want.
 On the other hand I also like to program on Java, because i just love it.
 
 **Interested in**
+Java
+https://www.java.com/es/
 
-
+Arch Linux 
 https://archlinux.org/
+
+Python
+https://www.python.org/
+
+C++
+https://www.w3schools.com/CPP/default.asp
+
+
 
 <!---
 IGerardoJR/IGerardoJR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

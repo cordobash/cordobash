@@ -19,12 +19,12 @@ https://www.java.com/es/
 
 **GNU/Linux**
   
-Arch Linux 
+Arch Linux            
 <!-- 
 ![https://archlinux.org/](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png) # Para poner imagenes sin hipervinculo
 --->
 <!-- El siguiente link es un ejemplo de como poner imagenes con hypervinculo-->
-[<img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="150" height="50"/>](https://archlinux.org/)
+[<img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="150" height="50"/>](https://archlinux.org/) 
 
 Ubuntu
 

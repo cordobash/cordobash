@@ -18,8 +18,9 @@ Java
 https://www.java.com/es/
 
 Arch Linux 
-![alt image] (https://archlinux.org/art/)
-https://archlinux.org/
+
+![https://archlinux.org/](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png)
+
 
 Python
 https://www.python.org/

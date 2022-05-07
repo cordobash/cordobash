@@ -29,7 +29,7 @@ Arch Linux
 Ubuntu
 
 [<img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/bugbuntu.png" width="120" height="75" />](https://ubuntu.com/download)
-
+<!-- 
 **Programing Languajes**
 
 Python
@@ -48,7 +48,17 @@ Java
 Bash
 
 [<img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/gnu.svg" width="50" height="50" />](https://www.w3schools.io/terminal/bash-tutorials/)
-
+-->
+<p dir="auto" align="left">
+  <!-- Python -->
+  <a href="https://www.python.org/" rel="nofollow">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/python.svg" width="50" height="50" alt="python">  
+  </a>
+  <!-- C++ -->
+  <a href="https://www.w3schools.com/CPP/default.asp" rel="nofollow">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/cppPng.png" width="50" height="50" alt="cpp">
+  </a>
+  
 <!---
 IGerardoJR/IGerardoJR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

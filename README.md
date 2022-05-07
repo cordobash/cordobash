@@ -28,7 +28,7 @@ Arch Linux
 
 Ubuntu
 
-[<img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/bugbuntu.png" width="120" height="75"/>](https://ubuntu.com/download)
+[<img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/bugbuntu.png" width="120" height="75" />](https://ubuntu.com/download)
 
 **Programing Languajes**
 

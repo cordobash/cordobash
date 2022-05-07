@@ -48,7 +48,7 @@ Bash
 
 [<img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/gnu.svg" width="50" height="50" />](https://www.w3schools.io/terminal/bash-tutorials/)
 -->
-**Programming Languajes && Tools**
+**Programming Languages & Tools**
 <p dir="auto" align="left">
   <!-- Python -->
   <a href="https://www.python.org/" rel="nofollow">

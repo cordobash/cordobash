@@ -15,39 +15,28 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
 
 **Mis Sistemas Operativos favoritos :**
 
-**GNU/Linux**
+**GNU/Linux y Windows**
+
+<p dir="auto" align="left">
+  <!-- Arch Linux -->
+  <a href="https://archlinux.org/" rel="nofollow">
+    <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="80" height="60" alt="Arch">  
+  </a>
+    <!-- Ubuntu -->
+  <a href="https://ubuntu.com/download/" rel="nofollow">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/bugbuntu.png" width="90" height="60" alt="Bugbuntu">  
+  </a>
+      <!-- Fedora -->
+  <a href="https://getfedora.org/es/" rel="nofollow">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/fedora-logofull-blue.png" width="100" height="60" alt="Fedora">  
+  </a>
+      <!--Centos -->
+  <a href="https://www.centos.org/download/" rel="nofollow">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/centos7_transparente.png" width="100" height="60" alt="CentOS">  
+  </a>
   
-Arch Linux            
-<!-- 
-![https://archlinux.org/](https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png) # Para poner imagenes sin hipervinculo
---->
-<!-- El siguiente link es un ejemplo de como poner imagenes con hypervinculo-->
-[<img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="150" height="50"/>](https://archlinux.org/) 
-
-Ubuntu
-
-[<img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/bugbuntu.png" width="120" height="75" />](https://ubuntu.com/download)
-<!-- 
-**Programing Languajes**
-
-Python
-
-[<img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/python.svg" width="50" height="50" />](https://www.python.org/)
-
-
-C++
-
-[<img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/cppPng.png" width="50" height="50" />](https://www.w3schools.com/CPP/default.asp)
-
-Java 
-
-[<img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/javaTransparente.png" width="50" height="50" />](https://www.geeksforgeeks.org/java/)
-
-Bash
-
-[<img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/gnu.svg" width="50" height="50" />](https://www.w3schools.io/terminal/bash-tutorials/)
--->
-**Programming Languages & Tools**
+   
+**Herramientas y Lenguajes de programacion**
 <p dir="auto" align="left">
   <!-- Python -->
   <a href="https://www.python.org/" rel="nofollow">
@@ -71,7 +60,11 @@ Bash
   </a>
  <!-- C Sharp -->
    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/csharp_transparente.png" width="40" height="40" alt="Sql">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/csharp_transparente.png" width="40" height="40" alt="csharp">
+  </a>
+   <!-- Prolog -->
+   <a href="https://www.swi-prolog.org/" rel="nofollow">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/prlog.png" width="40" height="40" alt="csharp">
   </a>
   
 <!---

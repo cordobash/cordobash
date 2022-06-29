@@ -5,16 +5,15 @@
 - 💞️ I’m looking to collaborate on ... web proyects
 - 📫 How to reach me ... **igerardo0808@gmail.com**
 -->
-
-Hello, my name is Isaias,i'm 21 years old.Actually i'm a full-time student of the engineering of 
-Computational Systems. 
-I like to browse the different systems operatives, but i'm using Arch Linux as my main desktop
-because i liked how i can put only the things i want.
-On the other hand I also like to program on Java, because i just love it.
 ![gifBienvenida](https://camo.githubusercontent.com/5e872457519ec5933f5b4f77be541d5adcecd073eda3edae6fed197930a99794/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537393231363131312f373535302f70696b616368755f776176652e6769663f31353739323136313131)
 
+Hola, mi nombre es Isaias,me presento como un estudiante y apasionado por la carrera de Ingenieria de Sistemas Computacionales.
+En mis repositorios podras encontrar tanto proyectos personales como proyectos escolares que he realizado atraves de los años.
+Principalmente me gusta el manejo de bases de datos, sistemas operativos y la programacion.
 
-**Interested in :**
+
+
+**Mis Sistemas Operativos favoritos :**
 
 **GNU/Linux**
   

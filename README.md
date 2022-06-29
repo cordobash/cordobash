@@ -70,7 +70,10 @@ Bash
    <a href="https://www.geeksforgeeks.org/sql-tutorial/" rel="nofollow">
     <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/sqlTrans.png" width="40" height="40" alt="Sql">
   </a>
-
+ <!-- C Sharp -->
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/csharp_transparente.png" width="40" height="40" alt="Sql">
+  </a>
   
 <!---
 IGerardoJR/IGerardoJR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

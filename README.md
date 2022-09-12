@@ -14,7 +14,7 @@ En mis repositorios podras encontrar tanto proyectos personales como proyectos e
 Principalmente me gusta el manejo de bases de datos, sistemas operativos y la programacion.
 
 
-**Mis Sistemas Operativos favoritos :**
+**Sistemas Operativos manejados :**
 **GNU/Linux y Windows**
 
 <p dir="auto" align="left">
@@ -24,12 +24,12 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
   </a>
     <!-- Ubuntu -->
   <a href="https://ubuntu.com/download/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/bugbuntu.png" width="80" height="30" alt="Bugbuntu">  
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/bugbuntu.png" width="110" height="60" alt="Bugbuntu">  
   </a>
       <!-- Fedora -->
-  <!-- <a href="https://getfedora.org/es/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/fedora-logofull-blue.png" width="100" height="60" alt="Fedora">  
-  </a> -->
+   <a href="https://getfedora.org/es/" rel="nofollow">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/Fedora-logo.png" width="100" height="55" alt="Fedora">  
+  </a> 
       <!--Centos -->
   <!-- <a href="https://www.centos.org/download/" rel="nofollow">
     <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/centos7_transparente.png" width="100" height="60" alt="CentOS">  

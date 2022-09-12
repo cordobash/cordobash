@@ -6,7 +6,7 @@
 - 📫 How to reach me ... **igerardo0808@gmail.com**
 -->
 
-![gifBienvenida](https://camo.githubusercontent.com/5e872457519ec5933f5b4f77be541d5adcecd073eda3edae6fed197930a99794/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537393231363131312f373535302f70696b616368755f776176652e6769663f31353739323136313131)
+<!--![gifBienvenida](https://camo.githubusercontent.com/5e872457519ec5933f5b4f77be541d5adcecd073eda3edae6fed197930a99794/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537393231363131312f373535302f70696b616368755f776176652e6769663f31353739323136313131)-->
 
 <p dir="auto" align="center">
 Hola, mi nombre es Isaias,me presento como un estudiante y apasionado por la carrera de Ingenieria de Sistemas Computacionales.

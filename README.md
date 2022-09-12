@@ -20,11 +20,11 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
 <p dir="auto" align="left">
   <!-- Arch Linux -->
   <a href="https://archlinux.org/" rel="nofollow">
-    <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="130" height="80" alt="Arch">  
+    <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="110" height="60" alt="Arch">  
   </a>
     <!-- Ubuntu -->
   <a href="https://ubuntu.com/download/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/bugbuntu.png" width="110" height="60" alt="Bugbuntu">  
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/bugbuntu.png" width="80" height="30" alt="Bugbuntu">  
   </a>
       <!-- Fedora -->
   <!-- <a href="https://getfedora.org/es/" rel="nofollow">

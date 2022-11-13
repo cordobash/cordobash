@@ -28,7 +28,7 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
   </a>
       <!-- Fedora -->
    <a href="https://getfedora.org/es/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/Fedora-logo.png" width="100" height="55" alt="Fedora">  
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/Fedora-logo.png" width="60" height="70" alt="Fedora">  
   </a> 
       <!--Centos -->
   <!-- <a href="https://www.centos.org/download/" rel="nofollow">

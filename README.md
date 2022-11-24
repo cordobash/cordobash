@@ -70,9 +70,7 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
     <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/prlog.png" width="40" height="40" alt="csharp">
   </a>
   <br>
-  [![Isaias's GitHub stats](https://github-readme-stats.vercel.app/api?username=IGerardoJR)](https://github.com/IGerardoJR)
-  <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IGerardoJR&hide=javascript,css,scss,html&theme=tokyonight)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/IGerardoJR&show_icons=true&theme=radical) -->
 <!---
 IGerardoJR/IGerardoJR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

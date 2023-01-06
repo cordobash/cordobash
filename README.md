@@ -38,8 +38,10 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
   <a href="https://www.microsoft.com/es-es/software-download/windows10ISO/" rel="nofollow">
     <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/w10_transparente.png" width="130" height="60" alt="CentOS">  
   </a>
-   
-**Herramientas y Lenguajes de programacion**
+ <hr>
+ 
+<b>Herramientas y Lenguajes de programacion</b>
+
 <p dir="auto" align="left">
   <!-- Python -->
   <a href="https://www.python.org/" rel="nofollow">

@@ -20,15 +20,15 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
 <p dir="auto" align="left">
   <!-- Arch Linux -->
   <a href="https://archlinux.org/" rel="nofollow">
-    <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="110" height="60" alt="Arch">  
+    <img src="https://archlinux.org/static/logos/archlinux-logo-dark-90dpi.ebdee92a15b3.png" width="110" height="60" alt="Arch" target="_blank">  
   </a>
     <!-- Ubuntu -->
   <a href="https://ubuntu.com/download/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/bugbuntu.png" width="110" height="60" alt="Bugbuntu">  
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/bugbuntu.png" width="110" height="60" alt="Bugbuntu"target="_blank">  
   </a>
       <!-- Fedora -->
    <a href="https://getfedora.org/es/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/Fedora-logo.png" width="60" height="70" alt="Fedora">  
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/Fedora-logo.png" width="60" height="70" alt="Fedora" target="_blank">  
   </a> 
       <!--Centos -->
   <!-- <a href="https://www.centos.org/download/" rel="nofollow">
@@ -36,7 +36,7 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
   </a> -->
       <!--Windows 10 -->
   <a href="https://www.microsoft.com/es-es/software-download/windows10ISO/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/w10_transparente.png" width="130" height="60" alt="CentOS">  
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/w10_transparente.png" width="130" height="60" alt="CentOS" target="_blank">  
   </a>
  <hr>
  
@@ -45,31 +45,31 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
 <p dir="auto" align="left">
   <!-- Python -->
   <a href="https://www.python.org/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/python.svg" width="40" height="40" alt="python">  
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/python.svg" width="40" height="40" alt="python" target="_blank">  
   </a>
   <!-- C++ -->
   <a href="https://www.w3schools.com/CPP/default.asp" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/cppPng.png" width="40" height="40" alt="cpp">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/cppPng.png" width="40" height="40" alt="cpp" target="_blank">
   </a>
   <!-- Java -->
    <a href="https://www.geeksforgeeks.org/java/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/javaTransparente.png" width="40" height="40" alt="javita">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/javaTransparente.png" width="40" height="40" alt="javita" target="_blank">
   </a>
   <!-- Bash -->
      <a href="https://www.w3schools.io/terminal/bash-tutorials/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/gnu.svg" width="40" height="40" alt="Bash/Shell">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/gnu.svg" width="40" height="40" alt="Bash/Shell" target="_blank">
   </a>
   <!-- SQL -->
    <a href="https://www.geeksforgeeks.org/sql-tutorial/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/sqlTrans.png" width="40" height="40" alt="Sql">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/sqlTrans.png" width="40" height="40" alt="Sql" target="_blank">
   </a>
  <!-- C Sharp -->
    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/csharp_transparente.png" width="40" height="40" alt="csharp">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/csharp_transparente.png" width="40" height="40" alt="csharp" target="_blank">
   </a>
    <!-- Prolog -->
    <a href="https://www.swi-prolog.org/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/prlog.png" width="40" height="40" alt="csharp">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/prlog.png" width="40" height="40" alt="csharp" target="_blank">
   </a>
   <br>
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/IGerardoJR&show_icons=true&theme=radical) -->

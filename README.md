@@ -85,15 +85,15 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
    <a href="https://www.javascript.com/" rel="nofollow">
       <img src="https://github.com/IGerardoJR/testImages/blob/main/javascript.png" width="40" height="40" alt="javascript" target="_blank">
   </a>
+   <!-- Vue -->
+   <a href="https://vuejs.org/" rel="nofollow">
+      <img src="https://github.com/IGerardoJR/testImages/blob/main/vuejs.png" width="40" height="40" alt="vuejs" target="_blank">
+  </a>
   <!-- REACT -->
    <a href="https://es.reactjs.org/" rel="nofollow">
       <img src="https://github.com/IGerardoJR/testImages/blob/main/prueba-unscreen.gif" width="65" height="45" alt="reactjs" target="_blank">
   </a>
-    <!-- Vue -->
-   <a href="https://vuejs.org/" rel="nofollow">
-      <img src="https://github.com/IGerardoJR/testImages/blob/main/vuejs.png" width="40" height="40" alt="vuejs" target="_blank">
-  </a>
-  
+   
   <br>
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/IGerardoJR&show_icons=true&theme=radical) -->
 <!---

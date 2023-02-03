@@ -36,7 +36,7 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
   </a> -->
       <!--Windows 10 -->
   <a href="https://www.microsoft.com/es-es/software-download/windows10ISO/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/w10_transparente.png" width="130" height="60" alt="CentOS" target="_blank">  
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/w10_transparente.png" width="100" height="60" alt="CentOS" target="_blank">  
   </a>
  <hr>
  

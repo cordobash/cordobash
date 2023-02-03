@@ -69,8 +69,31 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
   </a>
    <!-- Prolog -->
    <a href="https://www.swi-prolog.org/" rel="nofollow">
-    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/prlog.png" width="40" height="40" alt="csharp" target="_blank">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/prlog.png" width="40" height="40" alt="prolog" target="_blank">
   </a>
+  
+    <!-- Web -->
+  <!-- HTML -->
+   <a href="https://developer.mozilla.org/es/docs/Web/HTML" rel="nofollow">
+      <img src="https://github.com/IGerardoJR/testImages/blob/main/html.png" width="40" height="50" alt="html5" target="_blank">
+  </a>
+   <!-- CSS -->
+   <a href="https://developer.mozilla.org/es/docs/Web/CSS" rel="nofollow">
+      <img src="https://github.com/IGerardoJR/testImages/blob/main/csslogo.png" width="40" height="50" alt="css" target="_blank">
+  </a>
+  <!-- JS -->
+   <a href="https://www.javascript.com/" rel="nofollow">
+      <img src="https://github.com/IGerardoJR/testImages/blob/main/javascript.png" width="40" height="40" alt="javascript" target="_blank">
+  </a>
+  <!-- REACT -->
+   <a href="https://es.reactjs.org/" rel="nofollow">
+      <img src="https://github.com/IGerardoJR/testImages/blob/main/reactjs.svg" width="40" height="40" alt="reactjs" target="_blank">
+  </a>
+    <!-- Vue -->
+   <a href="https://vuejs.org/" rel="nofollow">
+      <img src="https://github.com/IGerardoJR/testImages/blob/main/vuejs.png" width="40" height="40" alt="vuejs" target="_blank">
+  </a>
+  
   <br>
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/IGerardoJR&show_icons=true&theme=radical) -->
 <!---

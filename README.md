@@ -91,7 +91,7 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
   </a>
   <!-- REACT -->
    <a href="https://es.reactjs.org/" rel="nofollow">
-      <img src="https://github.com/IGerardoJR/testImages/blob/main/prueba-unscreen.gif" width="65" height="45" alt="reactjs" target="_blank">
+      <img src="https://github.com/IGerardoJR/testImages/blob/main/ezgif.com-gif-maker.gif" width="45" height="45" alt="reactjs" target="_blank">
   </a>
    
   <br>

@@ -87,7 +87,7 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
   </a>
   <!-- REACT -->
    <a href="https://es.reactjs.org/" rel="nofollow">
-      <img src="https://github.com/IGerardoJR/testImages/blob/main/reactjs.svg" width="40" height="40" alt="reactjs" target="_blank">
+      <img src="https://github.com/IGerardoJR/testImages/blob/main/reactjs2.gif" width="40" height="40" alt="reactjs" target="_blank">
   </a>
     <!-- Vue -->
    <a href="https://vuejs.org/" rel="nofollow">

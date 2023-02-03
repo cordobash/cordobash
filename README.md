@@ -72,7 +72,7 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
     <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/prlog.png" width="40" height="40" alt="prolog" target="_blank">
   </a>
   
-    <!-- Web -->
+    <!-- Web Development -->
   <!-- HTML -->
    <a href="https://developer.mozilla.org/es/docs/Web/HTML" rel="nofollow">
       <img src="https://github.com/IGerardoJR/testImages/blob/main/html.png" width="40" height="50" alt="html5" target="_blank">

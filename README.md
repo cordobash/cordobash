@@ -16,7 +16,7 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
 
 <b>Herramientas y Lenguajes de programacion</b>
 
-<p dir="auto" align="center">
+<p dir="auto" align="left">
   <!-- Python -->
   <a href="https://www.python.org/" rel="nofollow">
     <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/python.svg" width="40" height="40" alt="python" target="_blank">  

@@ -68,11 +68,13 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
       <img src="https://github.com/IGerardoJR/testImages/blob/main/ezgif.com-gif-maker.gif" width="45" height="45" alt="reactjs" target="_blank">
   </a>
   <hr>
+  </p>
   
   ![IGerardoJR GitHub stats](https://github-readme-stats.vercel.app/api?username=IGerardoJR&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5&show_icons=true)
   <br>
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IGerardoJR&layout=compact&theme=synthwave&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+  
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/IGerardoJR&show_icons=true&theme=radical) -->
 <!---
 IGerardoJR/IGerardoJR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

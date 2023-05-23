@@ -70,7 +70,7 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
   <hr>
   
   ![IGerardoJR GitHub stats](https://github-readme-stats.vercel.app/api?username=IGerardoJR&show_icons=true&theme=tokyonight)
-  <hr>
+  <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IGerardoJR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/IGerardoJR&show_icons=true&theme=radical) -->

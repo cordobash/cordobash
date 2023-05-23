@@ -16,7 +16,7 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
 
 <b>Herramientas y Lenguajes de programacion</b>
 
-<p dir="auto" align="left">
+<p dir="auto" align="center">
   <!-- Python -->
   <a href="https://www.python.org/" rel="nofollow">
     <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/python.svg" width="40" height="40" alt="python" target="_blank">  
@@ -67,8 +67,10 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
    <a href="https://es.reactjs.org/" rel="nofollow">
       <img src="https://github.com/IGerardoJR/testImages/blob/main/ezgif.com-gif-maker.gif" width="45" height="45" alt="reactjs" target="_blank">
   </a>
-   
-  <br>
+  <hr>
+  
+  ![IGerardoJR GitHub stats](https://github-readme-stats.vercel.app/api?username=IGerardoJR&show_icons=true&theme=tokyonight)
+
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/IGerardoJR&show_icons=true&theme=radical) -->
 <!---
 IGerardoJR/IGerardoJR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -72,7 +72,6 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IGerardoJR&layout=compact&theme=highcontrast&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/IGerardoJR&show_icons=true&theme=radical)]
 <!---
 IGerardoJR/IGerardoJR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

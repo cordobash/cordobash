@@ -45,6 +45,10 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
    <a href="https://www.swi-prolog.org/" rel="nofollow">
     <img src="https://github.com/IGerardoJR/testImages/blob/main/ImagenesGit/prlog.png" width="40" height="40" alt="prolog" target="_blank">
   </a>
+    <!-- Flutter -->
+   <a href="https://flutter.dev/" rel="nofollow">
+    <img src="https://github.com/IGerardoJR/testImages/blob/main/flutterpp.png" width="60" height="40" alt="flutterdev" target="_blank">
+  </a>
   
     <!-- Web Development -->
   <!-- HTML -->
@@ -74,6 +78,8 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igerardojr&hide=jupyter%20notebook&theme=radical&layout=donut&border_radius=6&langs_count=7)
 </p>
+
+
 
 
 

@@ -76,7 +76,7 @@ Principalmente me gusta el manejo de bases de datos, sistemas operativos y la pr
 
 <p align="center">  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igerardojr&hide=jupyter%20notebook&theme=radical&layout=donut&border_radius=6&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cordobash&hide=jupyter%20notebook&theme=radical&layout=donut&border_radius=6&langs_count=7)
 </p>
 
 

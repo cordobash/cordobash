@@ -7,11 +7,10 @@
 -->
 
 <!--![gifBienvenida](https://camo.githubusercontent.com/5e872457519ec5933f5b4f77be541d5adcecd073eda3edae6fed197930a99794/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537393231363131312f373535302f70696b616368755f776176652e6769663f31353739323136313131)-->
-### Hi There, I'm Isaias 👋💞️
+### Hola, mi nombre es Isaias 👋💞️
 <p dir="auto" align="center">
-Hola, mi nombre es Isaias,me presento como un estudiante y apasionado por la carrera de Ingenieria de Sistemas Computacionales.
-En mis repositorios podras encontrar tanto proyectos personales como proyectos escolares que he realizado atraves de los años.
-Principalmente me gusta el manejo de bases de datos, sistemas operativos y la programacion.
+En la actualidad soy un ingeniero en el area de computacion, explorando siempre diversas tecnologias.
+En mis repositorios podras encontrar tanto proyectos personales como proyectos escolares. Destacando el manejo de sistemas operativos UNIX, manejo de aplicaciones moviles y web. 
 
 
 <b>Herramientas y Lenguajes de programacion</b>

@@ -1,18 +1,9 @@
-<!-- 
-- 👋 Hi, I’m @IGerardoJR
-- 👀 I’m interested in ... learning new programming languajes
-- 🌱 I’m currently learning ... front end technologies , c# , Java and Python
-- 💞️ I’m looking to collaborate on ... web proyects
-- 📫 How to reach me ... **igerardo0808@gmail.com**
--->
-
-<!--![gifBienvenida](https://camo.githubusercontent.com/5e872457519ec5933f5b4f77be541d5adcecd073eda3edae6fed197930a99794/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537393231363131312f373535302f70696b616368755f776176652e6769663f31353739323136313131)-->
+<!-- ![gifBienvenida](https://camo.githubusercontent.com/5e872457519ec5933f5b4f77be541d5adcecd073eda3edae6fed197930a99794/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537393231363131312f373535302f70696b616368755f776176652e6769663f31353739323136313131) !-->
 ### Hola, mi nombre es Isaias 👋💞️
 <p dir="auto" align="center">
-En la actualidad soy un ingeniero en el area de computacion, explorando siempre diversas tecnologias.
-En mis repositorios podras encontrar tanto proyectos personales como proyectos escolares. Destacando el manejo de sistemas operativos UNIX, manejo de aplicaciones moviles y web. 
-
-
+Lic.Ing en el area de computacion, siempre en busqueda de nuevo aprendizaje en todo lo relacionado a TI.
+En mis repositorios podras encontrar tanto proyectos personales como proyectos escolares.
+  
 <b>Herramientas y Lenguajes de programacion</b>
 
 <p dir="auto" align="left">
@@ -77,10 +68,6 @@ En mis repositorios podras encontrar tanto proyectos personales como proyectos e
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cordobash&hide=jupyter%20notebook&theme=radical&layout=donut&border_radius=6&langs_count=7)
 </p>
-
-
-
-
 
 <!---
 IGerardoJR/IGerardoJR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
